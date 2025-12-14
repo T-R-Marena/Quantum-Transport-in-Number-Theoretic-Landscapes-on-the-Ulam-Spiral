@@ -60,7 +60,7 @@ The notebook generates and saves:
 
 ## Citation
 
-If you use this code, please cite the arXiv preprint:
+If you use this code, please cite the arXiv preprint (currently awaiting approval:
 
 @article{marena2025quantum,
 title={Distinct Universality Classes of Quantum Transport in Number-Theoretic Landscapes on the Ulam Spiral},
